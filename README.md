@@ -1,4 +1,4 @@
-- 👋 Hi, my name is Nathan Arduino (@narduino391).
-- 🌱 I am currently an Electrical Engineering student at Roger Williams University.
-- ⚡ Here you can find some of my MATLAB work calculating interferometric reflectance for an undergraduate research project focused on terahertz imaging.
+- 👋 Hi, my name is Nathan Arduino.
+- 🌱 I am a senior Electrical and Computer Engineering student at Roger Williams University.
+- ⚡ Here you can find some of my projects, including code used in my mechatronics class as well as MATLAB programs developed in summer research to calculate interferometric reflectance for a skin imaging system.
 - 📫 Feel free to contact me via email at: narduino391@g.rwu.edu
